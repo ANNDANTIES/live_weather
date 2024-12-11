@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('./img/bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.heads{
+padding: 30px;
+}
+
