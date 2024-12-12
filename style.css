@@ -1,3 +1,5 @@
+
+  
 *{
     margin: 0px;
     padding: 0px;
@@ -6,7 +8,10 @@
     background-size: cover;
     background-attachment: fixed;
 }
+
 .heads{
+    font-family: "Agu Display", serif;
+
 padding: 30px;
 }
 #form{
@@ -15,6 +20,7 @@ padding: 30px;
     align-items: center;
     justify-content: space-around;
     color: #ffffff;
+    font-family: "Playwrite CA Guides", cursive;
 }
 #city{
    margin:30px 20px;
@@ -39,4 +45,10 @@ padding: 30px;
     background-color: #ffffff;
     color: black;
     border-color: black;
+}
+h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-size: larger;
+    font-style: normal;
 }
